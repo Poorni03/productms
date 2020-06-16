@@ -1,0 +1,32 @@
+
+‹com.infosys.project1.product.Controller.ProductController#getproductsOnId(Ljava/lang/Integer;)Lcom/infosys/project1/product/DTO/ProductDTO;w
+mC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/Controller/ProductController.java8 8(#"1*ù	
+1w
+mC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/Controller/ProductController.java9 9(&
+
+w
+mC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/Controller/ProductController.java9 9(&9
+%03com.infosys.project1.product.Service.ProductService"__id*Q*O;
+9com.infosys.project1.product.Controller.ProductController"
+productservice¹¶
+w
+mC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/Controller/ProductController.java9 9(>1
+%1+com.infosys.project1.product.DTO.ProductDTO"…com.infosys.project1.product.Service.ProductService#getProductsOnId(Ljava/lang/Integer;)Lcom/infosys/project1/product/DTO/ProductDTO;*;
+9
+%03com.infosys.project1.product.Service.ProductService*
+
+prodidjava.lang.Integer2$getProductsOnId(Ljava/lang/Integer;)ò
+ï
+w
+mC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/Controller/ProductController.java9 9(?9
+
+productDto+com.infosys.project1.product.DTO.ProductDTO"__id*3
+1
+%1+com.infosys.project1.product.DTO.ProductDTO"¶
+w
+mC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/Controller/ProductController.java: :(;
+9
+
+productDto+com.infosys.project1.product.DTO.ProductDTO:
+prodidjava.lang.IntegerB=;
+9com.infosys.project1.product.Controller.ProductController

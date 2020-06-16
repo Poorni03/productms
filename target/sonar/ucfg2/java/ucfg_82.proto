@@ -1,0 +1,39 @@
+
+ocom.infosys.project1.product.Controller.ProductController#deleteproducts(Ljava/lang/Integer;)Ljava/lang/String;w
+mC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/Controller/ProductController.javaE E("1*Ì
+1w
+mC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/Controller/ProductController.javaF F(	å
+â
+w
+mC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/Controller/ProductController.javaF F(	
+%0org.slf4j.Logger"__id*I*G;
+9com.infosys.project1.product.Controller.ProductController"
+loggerÖÓ
+w
+mC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/Controller/ProductController.javaF F(?
+
+%1void"<org.slf4j.Logger#info(Ljava/lang/String;Ljava/lang/Object;)V*
+
+%0org.slf4j.Logger*)'
+%Request for order removal by buyer {}*
+
+prodidjava.lang.Integer2*info(Ljava/lang/String;Ljava/lang/Object;)
+
+w
+mC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/Controller/ProductController.javaG G(9
+%23com.infosys.project1.product.Service.ProductService"__id*Q*O;
+9com.infosys.project1.product.Controller.ProductController"
+productserviceãà
+w
+mC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/Controller/ProductController.javaG G((
+
+%3void"Xcom.infosys.project1.product.Service.ProductService#deleteproducts(Ljava/lang/Integer;)V*;
+9
+%23com.infosys.project1.product.Service.ProductService*
+
+prodidjava.lang.Integer2#deleteproducts(Ljava/lang/Integer;)"“
+w
+mC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/Controller/ProductController.javaH H(!
+Deleted successfully:
+prodidjava.lang.IntegerB=;
+9com.infosys.project1.product.Controller.ProductController

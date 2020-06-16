@@ -22,6 +22,10 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>8</java.version>
+<sonar.projectKey>Poorni03_productms</sonar.projectKey>
+  <sonar.organization>poorni03</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>24ee2950a64b84cfc82476ef68d585f4372cf991</sonar.login>
 	</properties>
 <dependencyManagement>
 		<dependencies>

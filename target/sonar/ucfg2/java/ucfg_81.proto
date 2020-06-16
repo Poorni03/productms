@@ -1,0 +1,60 @@
+
+Ücom.infosys.project1.product.Controller.ProductController#addproducts(Lcom/infosys/project1/product/DTO/ProductDTO;)Ljava/lang/String;w
+mC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/Controller/ProductController.java= =("startingBlock*ö
+2w
+mC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/Controller/ProductController.java@
+ @(("õ
+w
+mC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/Controller/ProductController.java@ @() 
+Products Added successfully!*Û
+startingBlockw
+mC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/Controller/ProductController.java= =(?Ñ
+Å
+w
+mC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/Controller/ProductController.java< <(U
+%2"
+__annotate*75
+3org.springframework.web.bind.annotation.PostMapping*;
+9
+
+productdto+com.infosys.project1.product.DTO.ProductDTOÑ
+Å
+w
+mC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/Controller/ProductController.java= =((
+%3"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*;
+9
+
+productdto+com.infosys.project1.product.DTO.ProductDTO’
+“
+w
+mC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/Controller/ProductController.java=4 =(>9
+
+productdto+com.infosys.project1.product.DTO.ProductDTO"__annotation*
+
+%2*
+
+%3*
+3*∆
+3w
+mC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/Controller/ProductController.java? ?(ê
+ç
+w
+mC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/Controller/ProductController.java? ?(9
+%03com.infosys.project1.product.Service.ProductService"__id*Q*O;
+9com.infosys.project1.product.Controller.ProductController"
+productserviceØ¨
+w
+mC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/Controller/ProductController.java? ?()
+
+%1void"ocom.infosys.project1.product.Service.ProductService#addproducts(Lcom/infosys/project1/product/DTO/ProductDTO;)V*;
+9
+%03com.infosys.project1.product.Service.ProductService*;
+9
+
+productdto+com.infosys.project1.product.DTO.ProductDTO2:addproducts(Lcom/infosys/project1/product/DTO/ProductDTO;)*
+2:9
+
+productdto+com.infosys.project1.product.DTO.ProductDTOB=;
+9com.infosys.project1.product.Controller.ProductController

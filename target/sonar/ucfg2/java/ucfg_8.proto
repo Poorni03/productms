@@ -1,0 +1,79 @@
+
+³com.infosys.project1.product.DTO.SubscribedProductDTO#valueof(Lcom/infosys/project1/product/Entity/SubscribedProductEntity;)Lcom/infosys/project1/product/DTO/SubscribedProductDTO;s
+iC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/DTO/SubscribedProductDTO.java"$ "(+"1*¾
+1s
+iC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/DTO/SubscribedProductDTO.java# #(4ìé
+s
+iC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/DTO/SubscribedProductDTO.java# #(2;
+%05com.infosys.project1.product.DTO.SubscribedProductDTO"5com.infosys.project1.product.DTO.SubscribedProductDTOþ
+û
+s
+iC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/DTO/SubscribedProductDTO.java# #(4
+%1"?com.infosys.project1.product.DTO.SubscribedProductDTO#<init>()V*=
+;
+%05com.infosys.project1.product.DTO.SubscribedProductDTOù
+ö
+s
+iC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/DTO/SubscribedProductDTO.java# #(5:
+p5com.infosys.project1.product.DTO.SubscribedProductDTO"__id*=
+;
+%05com.infosys.project1.product.DTO.SubscribedProductDTO¡ž
+s
+iC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/DTO/SubscribedProductDTO.java$ $(	
+%2int"Icom.infosys.project1.product.Entity.SubscribedProductEntity#getBuyerId()I*C
+A
+p1;com.infosys.project1.product.Entity.SubscribedProductEntity2getBuyerId()¤¡
+s
+iC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/DTO/SubscribedProductDTO.java$ $(
+
+%3void"Dcom.infosys.project1.product.DTO.SubscribedProductDTO#setBuyerId(I)V*<
+:
+p5com.infosys.project1.product.DTO.SubscribedProductDTO*
+	
+%2int2setBuyerId(I)Ÿœ
+s
+iC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/DTO/SubscribedProductDTO.java% %(	
+%4int"Hcom.infosys.project1.product.Entity.SubscribedProductEntity#getProdId()I*C
+A
+p1;com.infosys.project1.product.Entity.SubscribedProductEntity2getProdId()¢Ÿ
+s
+iC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/DTO/SubscribedProductDTO.java% %(
+
+%5void"Ccom.infosys.project1.product.DTO.SubscribedProductDTO#setProdId(I)V*<
+:
+p5com.infosys.project1.product.DTO.SubscribedProductDTO*
+	
+%4int2setProdId(I)£ 
+s
+iC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/DTO/SubscribedProductDTO.java& &( 	
+%6int"Jcom.infosys.project1.product.Entity.SubscribedProductEntity#getQuantity()I*C
+A
+p1;com.infosys.project1.product.Entity.SubscribedProductEntity2getQuantity()¦£
+s
+iC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/DTO/SubscribedProductDTO.java& &(!
+
+%7void"Ecom.infosys.project1.product.DTO.SubscribedProductDTO#setQuantity(I)V*<
+:
+p5com.infosys.project1.product.DTO.SubscribedProductDTO*
+	
+%6int2setQuantity(I)š
+s
+iC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/DTO/SubscribedProductDTO.java' '(	
+%8int"Gcom.infosys.project1.product.Entity.SubscribedProductEntity#getSubId()I*C
+A
+p1;com.infosys.project1.product.Entity.SubscribedProductEntity2
+getSubId() 
+s
+iC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/DTO/SubscribedProductDTO.java' '(
+
+%9void"Bcom.infosys.project1.product.DTO.SubscribedProductDTO#setSubId(I)V*<
+:
+p5com.infosys.project1.product.DTO.SubscribedProductDTO*
+	
+%8int2setSubId(I)"³
+s
+iC:/Users/Admin/Desktop/productms/src/main/java/com/infosys/project1/product/DTO/SubscribedProductDTO.java( ((<
+:
+p5com.infosys.project1.product.DTO.SubscribedProductDTO:A
+p1;com.infosys.project1.product.Entity.SubscribedProductEntityB9"7
+5com.infosys.project1.product.DTO.SubscribedProductDTO
